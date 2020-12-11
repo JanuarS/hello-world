@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
-Hello, 
+Hello World, 
 
-I am a Water Systems Technician aspiring to become a Software Engineer!
+I am a Senior Water Systems Technician for aspiring to become a Software Engineer!
